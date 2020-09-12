@@ -1,4 +1,4 @@
-'''
+
 print("hello world!")       # 字符串  可以用英文的单引号也可以用双引号
 print(23333)                # 整数
 print(2.3333)               # 小数
@@ -48,7 +48,7 @@ print("input获取的内容：",a+b)
 #数据的长度
 a='hhhhhh'
 print(len(a))
-'''
+
 a= str(input("请输入："))                #input 获取用户输入的内容 再将内容转换为小数格式
 b= str(input("请输入："))            
 print(len(a+b))
